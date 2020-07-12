@@ -204,6 +204,5 @@ Epoch 5/5
 
  Epoch 00005: loss improved from 0.03885 to 0.03676, saving model to model.h5 
 
-The final video is archived in the github repo 
 
 The final video is archived in the same github repo 
