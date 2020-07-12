@@ -170,6 +170,40 @@ Non-trainable params: 0
 
 _________________________________________________________________ 
 
- 
+ Following are the Epoch wise log 
+
+Epoch 00001: loss improved from inf to 0.05558, saving model to model.h5 
+
+Epoch 2/5 
+
+516/516 [==============================] - 143s 276ms/step - loss: 0.0483 - val_loss: 0.0488 
+
+  
+
+Epoch 00002: loss improved from 0.05558 to 0.04828, saving model to model.h5 
+
+Epoch 3/5 
+
+516/516 [==============================] - 142s 276ms/step - loss: 0.0425 - val_loss: 0.0410 
+
+  
+
+Epoch 00003: loss improved from 0.04828 to 0.04247, saving model to model.h5 
+
+Epoch 4/5 
+
+516/516 [==============================] - 142s 276ms/step - loss: 0.0388 - val_loss: 0.0400 
+
+  
+
+Epoch 00004: loss improved from 0.04247 to 0.03885, saving model to model.h5 
+
+Epoch 5/5 
+
+516/516 [==============================] - 143s 276ms/step - loss: 0.0368 - val_loss: 0.0393 
+
+ Epoch 00005: loss improved from 0.03885 to 0.03676, saving model to model.h5 
+
+The final video is archived in the github repo 
 
 The final video is archived in the same github repo 
